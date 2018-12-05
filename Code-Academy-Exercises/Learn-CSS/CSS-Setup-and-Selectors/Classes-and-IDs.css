@@ -1,0 +1,21 @@
+p {
+  font-family: Arial;
+}
+h1 {
+  color: maroon;
+}
+.title {
+  color: teal;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+#article-title {
+  font-family: cursive;
+  text-transform: capitalize;
+}
+.publish-time {
+  color: gray;
+}
+/*<h6 class="publish-time">Published: 2 Days Ago</h6>*/
+/*Learned about the differences and when to use IDs and Classes*/

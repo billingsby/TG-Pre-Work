@@ -1,0 +1,18 @@
+p {
+  font-family: Arial;
+}
+h1 {
+  color: maroon;
+}
+.title {
+  color: teal;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+#article-title {
+  font-family: cursive;
+  text-transform: capitalize;
+}
+/*<h1 class="title uppercase" id="article-title">Top Vacation Spots</h1>
+*//*Learned about IDs to style a unique element*/
