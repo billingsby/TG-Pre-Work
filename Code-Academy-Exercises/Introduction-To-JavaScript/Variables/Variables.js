@@ -1,0 +1,1 @@
+// How to create a variable, store info inside, and reference info stored in the variable
