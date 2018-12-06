@@ -1,0 +1,1 @@
+// How to use the install command to install node packages and the -D flag instructs npm to add each package to a property called devDependencies in package.json

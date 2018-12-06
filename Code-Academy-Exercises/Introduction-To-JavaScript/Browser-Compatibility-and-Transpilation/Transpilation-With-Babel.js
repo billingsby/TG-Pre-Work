@@ -1,0 +1,1 @@
+// How to use Babel to transpile ES6 to ES5

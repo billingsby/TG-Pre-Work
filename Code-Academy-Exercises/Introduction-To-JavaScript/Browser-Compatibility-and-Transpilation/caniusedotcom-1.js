@@ -1,0 +1,1 @@
+// How to use caniuse.com to see JavaScript browser compatibility

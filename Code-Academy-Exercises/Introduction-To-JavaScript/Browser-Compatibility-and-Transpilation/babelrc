@@ -1,0 +1,5 @@
+{
+  "presets": ["env"]
+}
+
+How to create a .babelrc file to define the preset for your source JavaScript file
